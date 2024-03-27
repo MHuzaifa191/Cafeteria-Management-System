@@ -1,0 +1,100 @@
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.exe
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.deps.json
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.runtimeconfig.json
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.dll
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.pdb
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Form1.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Properties.Resources.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.GenerateResource.cache
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.AssemblyInfoInputs.cache
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.AssemblyInfo.cs
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.CoreCompileInputs.cache
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.dll
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\refint\DBProject.dll
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.pdb
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.genruntimeconfig.cache
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\ref\DBProject.dll
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.registrationForm.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Menu.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Feedback.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.LoyaltyProgram.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageMenu.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManagerDashboard.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ModifyOrder.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.PlaceOrder.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.TrackOrder.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageStaff.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageInventory.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageFinances.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.CustomerSatisfaction.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageRegister.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.OrderSummary.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.PointOfSale.resources
+D:\#####Uni Fifth Sem\Database Systems\Project\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.TimeClock.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.exe
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.deps.json
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.runtimeconfig.json
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\DBProject.pdb
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.AssemblyReference.cache
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.CustomerSatisfaction.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Feedback.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Form1.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.LoyaltyProgram.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageFinances.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageInventory.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageMenu.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManagerDashboard.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageRegister.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ManageStaff.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Menu.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.ModifyOrder.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.OrderSummary.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.PlaceOrder.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.PointOfSale.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.Properties.Resources.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.registrationForm.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.TimeClock.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.TrackOrder.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.GenerateResource.cache
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.AssemblyInfoInputs.cache
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.AssemblyInfo.cs
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.CoreCompileInputs.cache
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.CopyComplete
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\refint\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.pdb
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.genruntimeconfig.cache
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\ref\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.CartPage.resources
+C:\Users\mhuz4\OneDrive\Desktop\DBProject\DBProject\obj\Debug\net6.0-windows\DBProject.CheckoutPage.resources
+C:\Users\mhuz4\OneDrive\Desktop\i212460_i210851_DB_Project\i212460_i210851_PROJECT\DBProject\obj\Debug\net6.0-windows\DBProject.csproj.AssemblyReference.cache
+C:\Users\mhuz4\OneDrive\Desktop\i212460_i210851_DB_Project\i212460_i210851_PROJECT\DBProject\obj\Debug\net6.0-windows\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\i212460_i210851_DB_Project\i212460_i210851_PROJECT\DBProject\obj\Debug\net6.0-windows\refint\DBProject.dll
+C:\Users\mhuz4\OneDrive\Desktop\i212460_i210851_DB_Project\i212460_i210851_PROJECT\DBProject\obj\Debug\net6.0-windows\DBProject.pdb
